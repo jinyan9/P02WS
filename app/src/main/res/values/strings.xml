@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">p02ws</string>
+    <string name="enter_something">Enter something</string>
+    <string name="show" />
+    <string name="disabled">Disabled</string>
+    <string name="enabled">Enabled</string>
+
+</resources>
